@@ -20,7 +20,7 @@ Para jugar adecuadamente y disfrutar al máximo del juego, es necesario contar c
 ### Desarrollo de una Ronda
 
 1. **Visualización de la Secuencia:**
-   - El juego muestra una secuencia aleatoria de colores, iluminando cada uno de estos en un orden específico.
+   - El juego muestra una secuencia aleatoria de colores, resaltando cada uno de estos en un orden específico.
    - Cada ronda aumenta en longitud, comenzando con una secuencia de un solo color.
 
 2. **Interacción del Jugador:**
@@ -30,6 +30,7 @@ Para jugar adecuadamente y disfrutar al máximo del juego, es necesario contar c
 3. **Error del Jugador:**
    - Si el jugador clickea algún botón en un orden incorrecto, todos los botones se iluminarán en rojo momentáneamente para indicar un error.
    - El juego reinicia la secuencia desde el principio.
+   - Se cambia el orden de los colores para añadir dificultad.
 
 ### Puntuación
 
